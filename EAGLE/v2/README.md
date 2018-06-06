@@ -1,4 +1,4 @@
-# ATtiny85 WS2812B v1.0
+# ATtiny85 WS2812B v2
 
 ## Layers
 
